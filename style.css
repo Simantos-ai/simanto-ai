@@ -1,0 +1,87 @@
+h1 {
+text-align: center;
+color: black;
+}
+
+body{
+background-image: url(image.webp);
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #7f60b8;
+    padding: 10px 0;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    
+}
+
+.aboutmesection{
+background-color: black;
+color: white; 
+padding: 20px;
+margin:20px
+}
+
+.aboutmesection h2 {
+color: white;
+text-align: center;
+}
+
+.aboutmesection p{
+    color: white;
+    text-align: center;
+}
+
+h3{
+font-size: 100px;
+color: white;
+text-align: center;
+}
+
+.ecsection{
+background-color: rgb(145, 171, 74);
+color: rgb(16, 6, 6); 
+padding: 20px;
+margin:20px
+}
+
+.ecsection h2 {
+    color: white;
+    text-align: center;
+    }
+    
+.ecsection p{
+    color: white;
+    text-align: center;
+ }
+
+ .futursection{
+    background-color: rgb(39, 160, 140);
+    color: rgb(10, 3, 3); 
+    padding: 20px;
+    margin:20px
+    }
+    
+    .futursection h2 {
+    color: rgb(8, 2, 2);
+    text-align: center;
+    }
+        
+    .futursection p{
+    color: rgb(9, 1, 1);
+    text-align: center;
+     }
+
+     img{
+    display: flex;
+    flex-direction: row;
+     }
+
+
+
